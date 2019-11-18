@@ -1,6 +1,4 @@
 # MultiHectorSwarm
- ```
- 
  ### Install the MultiHectorSwarm package
 ```
 $ cd $WORKSPACE/src
